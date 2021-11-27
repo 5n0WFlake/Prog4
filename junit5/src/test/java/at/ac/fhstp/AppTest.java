@@ -1,4 +1,4 @@
-package fhstp.ac.at;
+package at.ac.fhstp;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
